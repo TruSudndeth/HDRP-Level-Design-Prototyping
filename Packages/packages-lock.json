@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.heurekagames.smartbuilder": {
+      "version": "file:com.heurekagames.smartbuilder",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.heurekagames.utils": {
+      "version": "file:com.heurekagames.utils",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.6.6",
       "depth": 1,
